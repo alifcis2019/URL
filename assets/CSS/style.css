@@ -1,0 +1,19 @@
+:root {
+    --primary__color :#16df7e;
+    --secondary-color: #007aff;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #444444;
+}
+
+
+.box {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
